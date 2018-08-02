@@ -9,3 +9,7 @@
 [react native android 调试服务器](http://localhost:8081/index.android.bundle?platform=android)
 
 [Cannot find entry file index.android.js in any of the roots ](https://www.cnblogs.com/honeynm/p/9007072.html) 错误解决方法
+
+
+
+[react native debug server host&port of device](https://blog.csdn.net/coder_nice/article/details/52933187)
