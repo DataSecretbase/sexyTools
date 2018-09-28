@@ -1,4 +1,5 @@
 [CentOS7下安装并简单设置PostgreSQL笔记](https://www.cnblogs.com/think8848/p/5877076.html) 
+[Ubuntu 下安装并简单设置PostgreSQL笔记](https://www.cnblogs.com/Siegel/p/6917213.html)
 
 （1）安装后会自动启动postgresql服务；但我遇到这个问题：
 
